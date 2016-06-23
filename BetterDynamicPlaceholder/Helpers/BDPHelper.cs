@@ -9,6 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 
+/// <summary>
+/// Created by Chris Berg at Create Digital
+/// http://createdigital.com
+/// </summary>
+
 namespace BetterDynamicPlaceholder.Helpers
 {
     class BDPHelper

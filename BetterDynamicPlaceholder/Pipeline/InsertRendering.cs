@@ -13,6 +13,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Created by Chris Berg at Create Digital
+/// http://createdigital.com
+/// </summary>
+
 namespace BetterDynamicPlaceholder.Pipeline
 {
     public class DPInsertRendering : InsertRendering
