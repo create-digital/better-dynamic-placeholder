@@ -16,9 +16,9 @@ using System.Web;
 
 namespace BetterDynamicPlaceholder.Helpers
 {
-    class BDPHelper
+    public static class BDPHelper
     {
-        private static string placeholderPattern = "_BDP";
+        public static string placeholderPattern = "_BDP";
         private static List<string> DynamicPlaceholderList
         {
             get

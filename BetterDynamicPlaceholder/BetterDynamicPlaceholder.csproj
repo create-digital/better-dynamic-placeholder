@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Helpers\BDPHelper.cs" />
+    <Compile Include="Pipeline\GetAllowedRenderings.cs" />
     <Compile Include="Pipeline\InsertRendering.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
