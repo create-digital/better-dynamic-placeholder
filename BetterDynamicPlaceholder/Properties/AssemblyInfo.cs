@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BetterDynamicPlaceholder")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Sitecore BetterDynamicPlaceholder")]
+[assembly: AssemblyDescription("Improved Dynamic Placeholder for Sitecore")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Create Digital")]
 [assembly: AssemblyProduct("BetterDynamicPlaceholder")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
